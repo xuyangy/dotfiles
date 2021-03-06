@@ -1327,19 +1327,19 @@ xmap ;j <Plug>(quickhl-manual-this)
 nmap ;J <Plug>(quickhl-manual-reset)
 xmap ;J <Plug>(quickhl-manual-reset)
 let g:quickhl_manual_colors = [
-        \ "gui=bold ctermfg=7   ctermbg=56  guibg=#a0b0c0 guifg=black",
-        \ "gui=bold ctermfg=7   ctermbg=21  guibg=#d4a00d guifg=#ffffff",
-        \ "gui=bold ctermfg=7   ctermbg=22  guibg=#06287e guifg=#ffffff",
-        \ "gui=bold ctermfg=7   ctermbg=2   guibg=#4070a0 guifg=#ffffff",
-        \ "gui=bold ctermfg=7   ctermbg=1   guibg=#a07040 guifg=#ffffff",
-        \ "gui=bold ctermfg=7   ctermbg=4   guibg=#70a040 guifg=#ffffff",
-        \ "gui=bold ctermfg=16  ctermbg=153 guifg=#ffffff guibg=#0a7383",
-        \ "gui=bold ctermfg=7   ctermbg=3   guibg=#40a070 guifg=#ffffff",
-        \ "gui=bold ctermfg=7   ctermbg=6   guibg=#007020 guifg=#ffffff",
-        \ "gui=bold ctermfg=7   ctermbg=50  guibg=#1060a0 guifg=#ffffff",
-        \ "gui=bold ctermfg=7   ctermbg=45  guibg=#5b3674 guifg=#ffffff",
-        \ "gui=bold ctermfg=7   ctermbg=5   guibg=#0070e0 guifg=#ffffff",
-        \ "gui=bold ctermfg=7   ctermbg=16  guibg=#4c8f2f guifg=#ffffff",
+        \ "ctermfg=7   ctermbg=56  guibg=#5f00d7 guifg=#c0c0c0",
+        \ "ctermfg=7   ctermbg=21  guibg=#0000ff guifg=#c0c0c0",
+        \ "ctermfg=7   ctermbg=22  guibg=#005f00 guifg=#c0c0c0",
+        \ "ctermfg=7   ctermbg=2   guibg=#008000 guifg=#c0c0c0",
+        \ "ctermfg=7   ctermbg=1   guibg=#800000 guifg=#c0c0c0",
+        \ "ctermfg=7   ctermbg=4   guibg=#000080 guifg=#c0c0c0",
+        \ "ctermfg=16  ctermbg=153 guifg=#afd7ff guibg=#000000",
+        \ "ctermfg=7   ctermbg=3   guibg=#808000 guifg=#c0c0c0",
+        \ "ctermfg=7   ctermbg=6   guibg=#008080 guifg=#c0c0c0",
+        \ "ctermfg=7   ctermbg=50  guibg=#00ffd7 guifg=#c0c0c0",
+        \ "ctermfg=7   ctermbg=45  guibg=#00d7ff guifg=#c0c0c0",
+        \ "ctermfg=7   ctermbg=5   guibg=#800080 guifg=#c0c0c0",
+        \ "ctermfg=7   ctermbg=16  guibg=#000000 guifg=#c0c0c0",
         \ ]
 " }}}
 " vim-notes{{{
